@@ -2,7 +2,7 @@
 Computer Vision Project: <br>
 The project was too big, we needed to put it on google colab. <br>
 Download the project from here! <br>
-https://drive.google.com/file/d/1bc_bszKoDZ6NPBCgSAG-x1gEC_BrCaEA/view?usp=sharing <br>
+https://drive.google.com/file/d/1NQ45g-sjPmfA0X_Wap6KKft89Fnkuh9y/view?usp=sharing <br>
 ## Objectives:
 To create a computer vision model that can accurately identify leaf species and diseases.
 ## Deliverables:
